@@ -1,0 +1,9 @@
+use_frameworks!
+
+platform :ios, '14.0'
+
+target 'ClearGMSMapStyle_Example' do
+
+  pod 'ClearGMSMapStyle', :path => '../'
+
+end

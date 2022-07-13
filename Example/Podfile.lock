@@ -1,0 +1,27 @@
+PODS:
+  - ClearGMSMapStyle (0.0.1):
+    - GoogleMaps (~> 6.2.1)
+  - GoogleMaps (6.2.1):
+    - GoogleMaps/Maps (= 6.2.1)
+  - GoogleMaps/Base (6.2.1)
+  - GoogleMaps/Maps (6.2.1):
+    - GoogleMaps/Base
+
+DEPENDENCIES:
+  - ClearGMSMapStyle (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - GoogleMaps
+
+EXTERNAL SOURCES:
+  ClearGMSMapStyle:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ClearGMSMapStyle: 7469ac041cb9289caea6fd85fa51794dca676002
+  GoogleMaps: 20d7b12be49a14287f797e88e0e31bc4156aaeb4
+
+PODFILE CHECKSUM: 189ee37026fbec33c966ff80426476d48025557f
+
+COCOAPODS: 1.11.3
