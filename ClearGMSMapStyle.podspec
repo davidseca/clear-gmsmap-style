@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |spec|
   spec.name = "ClearGMSMapStyle"
-  spec.version = "0.0.1"
+  spec.version = "0.0.2"
   spec.summary = "A clear styling for Google Maps SDK for iOS."
   spec.description = <<-DESC
   David Seca - just clear
